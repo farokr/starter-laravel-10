@@ -21,7 +21,7 @@ The project also includes a dynamic menu generated from the database.
 
 ## Installation
 
-1. git clone https://github.com/suryadi445/starter-laravel-10-ui.git
+1. git clone https://github.com/farokr/starter-laravel-10.git
 2. cd starter-laravel-10-ui
 3. composer install
 4. npm install
